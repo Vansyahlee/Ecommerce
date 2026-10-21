@@ -1,0 +1,29 @@
+{
+    "Profile": {
+      "title": "ストア設定とプロファイル",
+      "desc": "ストアのアイデンティティ、ルール、システム操作を一元管理します。",
+      "saveAll": "すべての設定を保存",
+      "identityTitle": "ストアアイデンティティとローカライズ",
+      "storeName": "ストア名",
+      "storeSlug": "ストアURLスラッグ",
+      "storeLogo": "ストアロゴURL",
+      "adminAvatar": "管理者アバターURL",
+      "lang": "ストアの主要言語",
+      "promoTitle": "配送とプロモーション",
+      "shipping": "デフォルト配送料 (IDR)",
+      "voucherMin": "バウチャー最低利用額 (IDR)",
+      "voucherDiscount": "バウチャー割引額 (IDR)",
+      "voucherExpiry": "バウチャー有効期限",
+      "sysTitle": "システム操作",
+      "schedule": "営業時間",
+      "scheduleDesc": "ストアの開店・閉店時間を設定",
+      "emailAlerts": "メール通知",
+      "emailAlertsDesc": "新規注文時に通知を送信",
+      "maintenance": "メンテナンスモード",
+      "maintenanceDesc": "ストアを一時的に閉鎖",
+      "payTitle": "利用可能な支払い方法",
+      "manualPay": "手動振込",
+      "qris": "QRIS / 電子ウォレット",
+      "gatewayPay": "自動ゲートウェイ"
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "Profile": {
+      "title": "商店设置与资料",
+      "desc": "在此集中管理商店的身份、规则和系统操作。",
+      "saveAll": "保存所有设置",
+      "identityTitle": "商店身份与本地化",
+      "storeName": "商店名称",
+      "storeSlug": "商店 URL 别名",
+      "storeLogo": "商店 Logo URL",
+      "adminAvatar": "管理员头像 URL",
+      "lang": "主要商店语言",
+      "promoTitle": "运费与促销",
+      "shipping": "默认运费 (IDR)",
+      "voucherMin": "优惠券最低消费 (IDR)",
+      "voucherDiscount": "优惠券折扣 (IDR)",
+      "voucherExpiry": "优惠券到期日",
+      "sysTitle": "系统操作",
+      "schedule": "营业时间",
+      "scheduleDesc": "设置商店开关门时间",
+      "emailAlerts": "邮件提醒",
+      "emailAlertsDesc": "新订单时发送通知",
+      "maintenance": "维护模式",
+      "maintenanceDesc": "暂时关闭商店",
+      "payTitle": "接受的付款方式",
+      "manualPay": "手动转账",
+      "qris": "QRIS / 电子钱包",
+      "gatewayPay": "自动网关"
+    }
+  }
