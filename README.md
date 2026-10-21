@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -29,6 +30,7 @@
 | Styling | Tailwind CSS |
 | Database | PostgreSQL / MySQL |
 | ORM | Prisma ORM |
+| Containerization | Docker / Docker Compose |
 
 ## System Architecture
 
@@ -40,3 +42,6 @@ ecommerce-backend (NestJS REST API)
           |
           v
 Database (Prisma ORM)
+          ^
+          |
+   Docker Container
